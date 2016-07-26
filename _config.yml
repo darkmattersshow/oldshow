@@ -1,2 +1,5 @@
 name: "Dark Matters: Secrets of the Unknown Universe... and beyond"
 markdown: kramdown
+
+gems:
+ - jekyll-sitemap
