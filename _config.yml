@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dark Matters"
+title                    : "DARK MATTERS"
 title_separator          : "-"
-name                     : ""
-description              : "xAn amazing website."
+name                     : "SECRET MYSTERIES OF THE UNKNOWN UNIVERSE... AND BEYOND"
+description              : "Podcast & Live Show in Los Angeles, California"
 url                      : "www.darkmattersshow.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : darkmattersshow/darkmattersshow# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "darkmattersshow/darkmattersshow.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
